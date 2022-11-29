@@ -1,5 +1,5 @@
 {
-    "name": "blade-ui-kit/blade-icons",
+    "name": "egyweb-blade-ui-kit/blade-icons",
     "description": "A package to easily make use of icons in your Laravel Blade views.",
     "keywords": ["Blade", "Icons", "Laravel", "SVG"],
     "homepage": "https://github.com/blade-ui-kit/blade-icons",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.4|^8.1",
         "illuminate/contracts": "^8.0|^9.0",
         "illuminate/filesystem": "^8.0|^9.0",
         "illuminate/support": "^8.0|^9.0",
